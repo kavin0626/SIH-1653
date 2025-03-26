@@ -27,7 +27,8 @@ Gradual improvement of the system through machine learning, using real-world dat
 
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/85a8aa7b-ff61-4c39-8e34-f9da70634be0)
+![image](https://github.com/user-attachments/assets/4d57993a-a25b-4a10-a466-011ba77d0e1b)
+
 
 
 
