@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:26/3/2025
 ## Register Number:212223100019
-## Name:KKAVINRAJ S
+## Name:KAVINRAJ S
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
